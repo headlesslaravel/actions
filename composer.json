@@ -1,0 +1,12 @@
+{
+    "name": "headlesslaravel/actions",
+    "description": "Headless bulk actions for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Dillingham",
+            "email": "brian@dillingham.dev"
+        }
+    ]
+}
